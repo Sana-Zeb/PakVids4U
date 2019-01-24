@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYP-PakVids4U", "FYP-PakVids4U\FYP-PakVids4U.csproj", "{7342519D-BA70-467E-8A3F-BA0D41452628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7342519D-BA70-467E-8A3F-BA0D41452628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7342519D-BA70-467E-8A3F-BA0D41452628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7342519D-BA70-467E-8A3F-BA0D41452628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7342519D-BA70-467E-8A3F-BA0D41452628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83A22A9-DFAB-4DA8-B9B9-39A1D0B9684B}
+	EndGlobalSection
+EndGlobal
